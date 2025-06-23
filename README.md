@@ -1,1 +1,10 @@
-# CS230
+# CS230 - Operating Platforms
+# Prof. Brian Enochson
+# Kayla Macklin
+# 06/22/2025
+
+The basis of this project was my role as a Technology Consultant for The Gaming Room. They aimed to create a web-based game that could be played on various platforms, inspired by their existing game, Draw It or Lose It. The application will display images from a vast collection of stock drawings to serve as clues. Each game consists of four rounds, each lasting one minute. The drawings will be shown at a consistent pace and will be fully visible by the 30-second mark. If the team fails to guess the puzzle before the time runs out, the other teams will have a chance to make one guess each, with a 15-second limit to solve the puzzle.
+     
+Although much of the project was challenging for me, I believe I excelled in the final part of the design document, which included personal recommendations. I felt it was crucial to balance The Gaming Room's current needs with the potential for future growth while also offering cost-effective solutions. Creating the design document helped me understand what is necessary to develop any application. As for areas that need improvement, I think the evaluation in the software design template, including server-side, client-side, and development tools, could benefit from a more thorough revision, focusing more on the development of our game across each platform, particularly for a Java server and web front end. Understanding the users' needs and incorporating them into the software design can be quite challenging, as it seems the company should have conducted market research to identify their best opportunities in the gaming industry.
+     
+When creating client software, it's vital to comprehend and predict their needs. However, it's equally important for us as designers to provide them with options, especially cost-effective ones, particularly when working with a startup. The better you grasp your customers' needs, the more likely you are to create a product that effectively meets their requirements.
